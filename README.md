@@ -1,3 +1,3 @@
 # LearningGitHub001
 
-This is the description for the ReadMe file
+This is the **description** for the __ReadMe__ file
